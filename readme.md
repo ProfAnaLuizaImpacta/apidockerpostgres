@@ -1,4 +1,4 @@
-Instalar docker desktop
+# Instalar docker desktop
   https://www.docker.com/products/docker-desktop/
 Instalar python na store do windows 
   Store está no menu ininiar
@@ -6,13 +6,24 @@ Instalar dbeaver
   https://dbeaver.io/download/
 
 
-comandos
+# comandos api
   cd backend
   python -m venv env
   env\Scripts\activate
   (env)pip install -r requirements.txt
   docker compose up -d
+  ver se a conexao funciona
   (env)python main.py
+  testar endpoints no localhost:8002\docs
+  parar main da api
+# comandos db
+  cd banckend
+  cd db
+  (env)python main.py
+  ver se a tabela foi criada no dbeaver
+  testar endpoints no localhost:8002\docs
+  
+
 
 
 O front usaria isso apos criar os arquivos
@@ -21,7 +32,7 @@ npm install
 npm run start
 ir para http://localhost:3000
 
-docker compose up -d
+
 
 
 exemplos de conexões
