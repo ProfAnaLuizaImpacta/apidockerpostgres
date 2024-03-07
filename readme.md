@@ -1,9 +1,9 @@
 # Instalar docker desktop
   https://www.docker.com/products/docker-desktop/
-<br \>Instalar python na store do windows 
-  <br \>Store está no menu ininiar
-<br \>Instalar dbeaver
-  <br \>https://dbeaver.io/download/
+<br />Instalar python na store do windows 
+  <br />Store está no menu ininiar
+<br />Instalar dbeaver
+  <br />https://dbeaver.io/download/
 
 
 # comandos api
