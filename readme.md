@@ -7,21 +7,21 @@
 
 
 # comandos api
-  cd backend
-  python -m venv env
-  env\Scripts\activate
-  (env)pip install -r requirements.txt
-  docker compose up -d
-  ver se a conexao funciona
-  (env)python main.py
-  testar endpoints no localhost:8002\docs
-  parar main da api
+   <br />cd backend
+   <br />python -m venv env
+   <br />env\Scripts\activate
+   <br />(env)pip install -r requirements.txt
+   <br />docker compose up -d
+   <br />ver se a conexao funciona
+  <br /> (env)python main.py
+   <br />testar endpoints no localhost:8002\docs
+   <br />parar main da api
 # comandos db
-  cd banckend
-  cd db
-  (env)python main.py
-  ver se a tabela foi criada no dbeaver
-  testar endpoints no localhost:8002\docs
+   <br />cd banckend
+  <br /> cd db
+   <br />(env)python main.py
+   <br />ver se a tabela foi criada no dbeaver
+  <br /> testar endpoints no localhost:8002\docs
   
 
 
