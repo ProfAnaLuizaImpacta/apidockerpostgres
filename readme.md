@@ -13,9 +13,8 @@
    <br />(env)pip install -r requirements.txt
    <br />docker compose up -d
    <br />ver se a conexao funciona
-  <br /> (env)python main.py
-   <br />testar endpoints no localhost:8002\docs
-   <br />parar main da api
+
+
 # comandos db
    <br />cd banckend
   <br /> cd db
